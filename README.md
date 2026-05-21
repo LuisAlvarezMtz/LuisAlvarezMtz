@@ -27,6 +27,39 @@ I enjoy designing systems that are easy to scale and reason about.
 
 ---
 
+### Featured project
+
+#### 🏥 MediTrack — Medication Reminder System
+
+A full-stack medication management system built around a production REST API.
+
+| Layer | Tech |
+|-------|------|
+| Backend API | Java · Spring Boot 3 · JWT · Spring Data JPA · PostgreSQL |
+| Web App | HTML · CSS · Vanilla JS |
+| Mobile App | Kotlin · Retrofit · AlarmManager · WorkManager |
+| Deploy | Render (HTTPS) |
+
+**Key highlights:**
+- Stateless auth with JWT (access + refresh tokens) and role-based access control
+- Automatic scheduler that marks missed alarms and deactivates expired configurations
+- Android app with exact alarms, full-screen notifications and background sync every 5 min
+- Two user roles: Patient and Caregiver, with weekly adherence statistics
+
+📂 [Backend](https://github.com/LuisAlvarezMtz/MeditrackWebAppBack) · [Frontend](https://github.com/LuisAlvarezMtz/MediTrackWebAppFront) · [Mobile](https://github.com/LuisAlvarezMtz/MediTrackServiceMovil)
+
+---
+
+### Also built
+
+#### 🧬 Sensor Placement Optimizer
+
+Java OOP solution using genetic algorithms and Petri Net matrices to find the minimum sensor configuration needed to fully monitor an industrial water-filling process — same coverage, fewer sensors.
+
+📂 [Repository](https://github.com/LuisAlvarezMtz/event-population-management)
+
+---
+
 ### Tech stack
 
 **Backend**
@@ -56,39 +89,8 @@ I enjoy designing systems that are easy to scale and reason about.
 
 ---
 
-### Featured project
-
-#### 🏥 MediTrack — Medication Reminder System
-
-A full-stack medication management system built around a production REST API.
-
-| Layer | Tech |
-|-------|------|
-| Backend API | Java · Spring Boot 3 · JWT · Spring Data JPA · PostgreSQL |
-| Web App | HTML · CSS · Vanilla JS |
-| Mobile App | Kotlin · Retrofit · AlarmManager · WorkManager |
-| Deploy | Render (HTTPS) |
-
-**Key highlights:**
-- Stateless auth with JWT (access + refresh tokens) and role-based access control
-- Automatic scheduler that marks missed alarms and deactivates expired configurations
-- Android app with exact alarms, full-screen notifications and background sync every 5 min
-- Two user roles: Patient and Caregiver, with weekly adherence statistics
-
-📂 [Backend](https://github.com/LuisAlvarezMtz/MeditrackWebAppBack) · [Frontend](https://github.com/LuisAlvarezMtz/MediTrackWebAppFront) · [Mobile](https://github.com/LuisAlvarezMtz/MediTrackServiceMovil)
-
----
-
-### Also built
-
-#### 🧬 Sensor Placement Optimizer
-Java OOP solution using genetic algorithms and Petri Net matrices to find the minimum sensor configuration needed to fully monitor an industrial water-filling process — same coverage, fewer sensors.
-
-📂 [Repository](https://github.com/LuisAlvarezMtz/event-population-management)
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisAlvarezMtz&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlvarezMtz&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisAlvarezMtz&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=1B4F72&icon_color=1B4F72&text_color=444444" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlvarezMtz&layout=compact&theme=transparent&hide_border=true&title_color=1B4F72&text_color=444444" height="150"/>
 </p>
