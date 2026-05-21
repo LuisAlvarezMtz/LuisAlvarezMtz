@@ -88,9 +88,3 @@ Java OOP solution using genetic algorithms and Petri Net matrices to find the mi
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisAlvarezMtz&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=1B4F72&icon_color=1B4F72&text_color=444444" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlvarezMtz&layout=compact&theme=transparent&hide_border=true&title_color=1B4F72&text_color=444444" height="150"/>
-</p>
