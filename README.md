@@ -21,7 +21,7 @@
 Backend developer focused on building clean, maintainable REST APIs.
 I enjoy designing systems that are easy to scale and reason about.
 
-- 🎓 Computer Engineer — Universidad de Guadalajara (CUCEI)
+- 🎓 Computer Engineer — Universidad de Guadalajara (CUCSUR)
 - 🔧 Currently deepening my knowledge in Spring Boot 3 & system design
 - 📫 luisangel.alvarezmtz@gmail.com
 
